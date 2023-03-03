@@ -5,7 +5,7 @@ weight = 10
 tags = [  "plugin" , "multicluster" ]
 categories = [ "plugin", "external" ]
 date = "2021-11-09T12:37:19+01:00"
-repo = "https://github.com/coredns/multicluster/"
+repo = "https://github.com/coredns/multicluster"
 home = "https://github.com/coredns/multicluster#readme"
 +++
 
